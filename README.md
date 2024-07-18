@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeabsira Tibebu
 =======================================================================================================================================
 
-An aspiring ML, Data and Software Engineer
+An aspiring Data Analyst, ML and Software Engineer
 ------------------------------------------
 
 An aspiring Junior ML, Data Engineer with a background in software engineering, passionate about leveraging cutting-edge technologies to drive digital innovation, and with a solid foundation in software development and experience in preprocessing data, building data visualizations, performing feature engineering, modeling, and deployment.
