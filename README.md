@@ -6,7 +6,7 @@ An aspiring Data Analyst, ML and Software Engineer
 
 An aspiring Junior ML, Data Engineer with a background in software engineering, passionate about leveraging cutting-edge technologies to drive digital innovation, and with a solid foundation in software development and experience in preprocessing data, building data visualizations, performing feature engineering, modeling, and deployment.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://sites.google.com/view/yeabsira-tefera/home)
+* 🖥️  See my portfolio at [MyPortfolio](https://sites.google.com/view/yeabsira-tefera)
 * ✉️  You can contact me at [yeabsiratibebu6@gmail.com](mailto:yeabsiratibebu6@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
